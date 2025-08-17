@@ -4,7 +4,7 @@ This project explores sales and returns performance using the Superstore dataset
 The dashboard provides insights into **sales by category, region, year**, and **return rates**.
 
 ## 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpeg)
 
 ## 🔍 Key Insights
 - **Technology** category contributes the highest profit but also has the **highest return rate** (~46%).  
