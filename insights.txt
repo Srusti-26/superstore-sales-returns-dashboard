@@ -1,0 +1,6 @@
+Insights from Superstore Sales & Returns Analysis
+
+1. Technology contributes the highest profit but also faces the highest return rate (~46%).
+2. Sales have grown consistently year-on-year, with 2017 recording the highest sales.
+3. Returns are distributed across all regions, with East and Central showing slightly higher counts.
+4. Profit lost due to returns is approximately 23.23K, suggesting areas for improvement in product quality and logistics.
